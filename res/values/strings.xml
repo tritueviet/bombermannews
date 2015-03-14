@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BomActivity!</string>
+    
+
+    <string name="play">Play</string><string name="app_name">Bomber Man New</string>
+    <string name="infor">Information</string>
+    <string name="exit">Exit</string>
+    
+    <string name="string_thoat">Do you want exit game?.</string>
+     <string name="string_gameover">Failed!!!</string>
+    
+     <string name="string_thongtin">\n   Bomber Man New\n   Version: 1.1\n
+  Deverloper: Vu Van Tuong</string>
+		
+     
+     <string name="string_chienthang">Victory!!!\n
+         You have overcome all the challenges, the hardest part you have completed. \n\n  Information about the game:   \n\n     Bomber Man \n     Version: 1.1\n     Derverloper: Vu Van Tuong \n\n             Thank you for play!</string>
+    
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
